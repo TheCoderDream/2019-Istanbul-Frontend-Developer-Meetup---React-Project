@@ -1,0 +1,37 @@
+.countdown_container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: white;
+}
+
+.countdown_top {
+    background-color: aqua;
+    font-size: 19px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.countdown_bottom {
+    display: flex;
+    background-color: mediumturquoise;
+    padding: 10px 20px;
+}
+
+.countdown_time {
+    font-size: 70px;
+    border-right: 1px solid turquoise;
+    margin-right: 14px;
+    padding-right: 49px;
+}
+
+.countdown_tag {
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-left: 7px;
+}
+
+.countdown_item:last-child .countdown_time {
+    border: none;
+}
+

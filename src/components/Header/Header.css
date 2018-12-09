@@ -1,0 +1,11 @@
+.header_logo {
+    flex-grow: 1;
+}
+
+.header_logo_title {
+    text-transform: uppercase;
+}
+
+.header_logo_meeting {
+    font-size: 40px;
+}
