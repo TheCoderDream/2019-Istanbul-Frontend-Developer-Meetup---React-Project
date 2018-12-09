@@ -1,0 +1,8 @@
+.carousel_container {
+    height: 700px;
+    overflow:hidden;
+}
+
+.carousel_img {
+    background-size: cover !important;
+}
