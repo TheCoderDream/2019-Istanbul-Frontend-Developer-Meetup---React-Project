@@ -1,5 +1,6 @@
 ![alt-text](https://github.com/TheCodersDream/2019-Istanbul-Frontend-Developer-Meetup---React-Project/blob/master/Screenshot_19.png)
-
+![alt-text](https://github.com/TheCodersDream/2019-Istanbul-Frontend-Developer-Meetup---React-Project/blob/master/Screenshot_20.png)
+![alt-text](https://github.com/TheCodersDream/2019-Istanbul-Frontend-Developer-Meetup---React-Project/blob/master/Screenshot_21.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
